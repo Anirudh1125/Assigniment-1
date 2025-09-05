@@ -1,1 +1,3 @@
 Hello, my name is Anirudh Amuda. I am an international student from India, currently enrolled in the Master’s program in Computer Science. I transferred from George Mason University, where I began my graduate studies.
+
+i play basketball
